@@ -51,7 +51,19 @@ Sebuah skrip Python sederhana namun kuat untuk mengunduh video dan audio dari Yo
 * **Python 3.x**
 * **`yt-dlp`**: Perpustakaan utama untuk mengunduh video.
 * **`ffmpeg`**: Diperlukan untuk konversi video ke audio (MP3) dan penggabungan gambar dan audio.
+* 
 
 Anda bisa menginstal semua perpustakaan yang dibutuhkan dengan pip:
 ```bash
 pip install yt-dlp
+```
+Catatan: yt-dlp memerlukan ffmpeg untuk konversi audio. Di Termux, Anda bisa menginstalnya dengan:
+```bash
+pkg install ffmpeg
+```
+
+---
+
+​🚀 Langkah-Langkah Penggunaan
+​Ikuti langkah-langkah mudah ini untuk mulai mengunduh video dan audio:
+​Langkah 1: Instalasi & Persiapan
