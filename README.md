@@ -52,14 +52,14 @@ termux-setup-storage
 
 ### Langkah 1: Simpan Kode
 
-Salin kode `downloader.py` ke folder mana pun di perangkat Anda, misalnya di `~/storage/shared/Download/`.
+Salin kode `ytcli.py` ke folder mana pun di perangkat Anda, misalnya di `~/storage/shared/Download/`.
 
 ### Langkah 2: Jalankan dari Terminal
 
 Buka Termux, navigasikan ke folder tempat Anda menyimpan skrip, dan jalankan perintah ini:
 
 ```bash
-python downloader.py
+python ytcli.py
 ```
 
 ### Langkah 3: Ikuti Panduan
