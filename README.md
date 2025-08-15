@@ -1,4 +1,4 @@
-# YT_Dowloader_CLI_ONLY
+# 
 
 # 🚀 YouTube Downloader CLI (Command Line Interface)
 
@@ -50,7 +50,7 @@ Sebuah skrip Python sederhana namun kuat untuk mengunduh video dan audio dari Yo
 
 * **Python 3.x**
 * **`yt-dlp`**: Perpustakaan utama untuk mengunduh video.
-* **`ffmpeg`**: Diperlukan untuk konversi video ke audio (MP3).
+* **`ffmpeg`**: Diperlukan untuk konversi video ke audio (MP3) dan penggabungan gambar dan audio.
 
 Anda bisa menginstal semua perpustakaan yang dibutuhkan dengan pip:
 ```bash
